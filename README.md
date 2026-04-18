@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/manishanp01" target="blank"><img src="https://img.shields.io/twitter/follow/manishanp01?logo=twitter&style=for-the-badge" alt="manishanp01" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **manish.5746370@gmail.com**
 
